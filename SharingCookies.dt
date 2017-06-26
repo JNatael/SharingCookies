@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-16"?>
+<DevTrackerData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" SolutionTotalEditTime="PT43M1.8640794S" SolutionTotalViewTime="PT31M1.1736775S" SolutionTotalDebugTime="PT1H12M36.1035824S">
+  <FileVersion>
+    <Major>1</Major>
+    <Minor>0</Minor>
+  </FileVersion>
+  <SessionTimeList />
+  <LastSessionTimeList>
+    <DevTrackerDataItem ViewActiveTime="PT15M49.0552686S" EditActiveTime="PT9M25.0990665S">
+      <ModifiedDate>2017-05-10T23:57:04.28702+02:00</ModifiedDate>
+      <ModifiedBy>shaff</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>Debug Mode</Item>
+      <ItemType>DebugModeItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2017-05-10T23:30:31.1013886+02:00</CreatedDate>
+      <ViewedBy>shaff</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M37.7187522S" EditActiveTime="PT1M22.5046242S">
+      <ModifiedDate>2017-05-10T23:42:52.9825861+02:00</ModifiedDate>
+      <ModifiedBy>shaff</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>c:\Users\shaff\Desktop\TUM Sync Folder\Alg. for Prog. Contests\Week 2\SharingCookies\SharingCookies\SharingCookies.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\shaff\Desktop\TUM Sync Folder\Alg. for Prog. Contests\Week 2\SharingCookies\SharingCookies\SharingCookies.vcxproj</ProjectName>
+      <CreatedDate>2017-05-10T23:19:55.7962316+02:00</CreatedDate>
+      <ViewedBy>shaff</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2.6378697S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\crt\src\stl\stdthrow.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2017-05-10T23:30:45.5729559+02:00</CreatedDate>
+      <ViewedBy>shaff</ViewedBy>
+    </DevTrackerDataItem>
+  </LastSessionTimeList>
+  <TotalTimeList>
+    <DevTrackerDataItem ViewActiveTime="PT1H12M36.104567S" EditActiveTime="PT32M2.1115205S">
+      <ModifiedDate>2017-05-10T23:57:04.28702+02:00</ModifiedDate>
+      <ModifiedBy>shaff</ModifiedBy>
+      <EditedCount>3</EditedCount>
+      <ViewedCount>5</ViewedCount>
+      <Item>Debug Mode</Item>
+      <ItemType>DebugModeItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2017-05-09T22:41:11.8325962+02:00</CreatedDate>
+      <ViewedBy>shaff</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT29M57.5595433S" EditActiveTime="PT43M1.8630787S">
+      <ModifiedDate>2017-05-10T23:42:52.9825861+02:00</ModifiedDate>
+      <ModifiedBy>shaff</ModifiedBy>
+      <EditedCount>5</EditedCount>
+      <ViewedCount>5</ViewedCount>
+      <Item>C:\Users\shaff\Desktop\TUM Sync Folder\Alg. for Prog. Contests\Week 2\SharingCookies\SharingCookies\SharingCookies.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\shaff\Desktop\TUM Sync Folder\Alg. for Prog. Contests\Week 2\SharingCookies\SharingCookies\SharingCookies.vcxproj</ProjectName>
+      <CreatedDate>2017-05-09T21:30:14.3566933+02:00</CreatedDate>
+      <ViewedBy>shaff</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT39.3922251S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>3</ViewedCount>
+      <Item>C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\crt\src\stl\stdthrow.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2017-05-09T23:50:21.0810756+02:00</CreatedDate>
+      <ViewedBy>shaff</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT24.2219083S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\xutility</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2017-05-09T22:01:52.0137213+02:00</CreatedDate>
+      <ViewedBy>shaff</ViewedBy>
+    </DevTrackerDataItem>
+  </TotalTimeList>
+  <HistoryTimeList>
+    <DevTrackerDataItem ViewActiveTime="PT2.6378697S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\crt\src\stl\stdthrow.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2017-05-10T23:30:45.5729559+02:00</CreatedDate>
+      <ViewedBy>shaff</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT15M49.0552686S" EditActiveTime="PT9M25.0990665S">
+      <ModifiedDate>2017-05-10T23:57:04.28702+02:00</ModifiedDate>
+      <ModifiedBy>shaff</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>Debug Mode</Item>
+      <ItemType>DebugModeItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2017-05-10T23:30:31.1013886+02:00</CreatedDate>
+      <ViewedBy>shaff</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M37.7157331S" EditActiveTime="PT1M22.5046242S">
+      <ModifiedDate>2017-05-10T23:42:52.9825861+02:00</ModifiedDate>
+      <ModifiedBy>shaff</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>c:\Users\shaff\Desktop\TUM Sync Folder\Alg. for Prog. Contests\Week 2\SharingCookies\SharingCookies\SharingCookies.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\shaff\Desktop\TUM Sync Folder\Alg. for Prog. Contests\Week 2\SharingCookies\SharingCookies\SharingCookies.vcxproj</ProjectName>
+      <CreatedDate>2017-05-10T23:19:55.7962316+02:00</CreatedDate>
+      <ViewedBy>shaff</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT25.8518552S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\crt\src\stl\stdthrow.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2017-05-10T17:10:43.7945293+02:00</CreatedDate>
+      <ViewedBy>shaff</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2M5.8833166S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>Debug Mode</Item>
+      <ItemType>DebugModeItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2017-05-10T16:51:26.3765054+02:00</CreatedDate>
+      <ViewedBy>shaff</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT5M41.9222156S" EditActiveTime="PT8M30.3727309S">
+      <ModifiedDate>2017-05-10T17:09:42.3594736+02:00</ModifiedDate>
+      <ModifiedBy>shaff</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>c:\Users\shaff\Desktop\TUM Sync Folder\Alg. for Prog. Contests\Week 2\SharingCookies\SharingCookies\SharingCookies.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\shaff\Desktop\TUM Sync Folder\Alg. for Prog. Contests\Week 2\SharingCookies\SharingCookies\SharingCookies.vcxproj</ProjectName>
+      <CreatedDate>2017-05-10T16:48:18.0470408+02:00</CreatedDate>
+      <ViewedBy>shaff</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT10.9025002S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\crt\src\stl\stdthrow.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2017-05-09T23:50:21.0810756+02:00</CreatedDate>
+      <ViewedBy>shaff</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT37M29.9192321S" EditActiveTime="PT21M40.1173328S">
+      <ModifiedDate>2017-05-10T00:24:36.86595+02:00</ModifiedDate>
+      <ModifiedBy>shaff</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>Debug Mode</Item>
+      <ItemType>DebugModeItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2017-05-09T23:06:34.8423226+02:00</CreatedDate>
+      <ViewedBy>shaff</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT8M16.9172059S" EditActiveTime="PT4M33.5263952S">
+      <ModifiedDate>2017-05-10T00:12:10.7996648+02:00</ModifiedDate>
+      <ModifiedBy>shaff</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>c:\Users\shaff\Desktop\TUM Sync Folder\Alg. for Prog. Contests\Week 2\SharingCookies\SharingCookies\SharingCookies.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\shaff\Desktop\TUM Sync Folder\Alg. for Prog. Contests\Week 2\SharingCookies\SharingCookies\SharingCookies.vcxproj</ProjectName>
+      <CreatedDate>2017-05-09T23:06:30.9634743+02:00</CreatedDate>
+      <ViewedBy>shaff</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT16M12.67553S" EditActiveTime="PT56.8951212S">
+      <ModifiedDate>2017-05-09T22:45:46.598523+02:00</ModifiedDate>
+      <ModifiedBy>shaff</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>Debug Mode</Item>
+      <ItemType>DebugModeItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2017-05-09T22:43:22.6230753+02:00</CreatedDate>
+      <ViewedBy>shaff</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT32.0818397S" EditActiveTime="PT1.9793728S">
+      <ModifiedDate>2017-05-09T22:46:09.3373629+02:00</ModifiedDate>
+      <ModifiedBy>shaff</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>c:\Users\shaff\Desktop\TUM Sync Folder\Alg. for Prog. Contests\Week 2\SharingCookies\SharingCookies\SharingCookies.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\shaff\Desktop\TUM Sync Folder\Alg. for Prog. Contests\Week 2\SharingCookies\SharingCookies\SharingCookies.vcxproj</ProjectName>
+      <CreatedDate>2017-05-09T22:43:17.2485125+02:00</CreatedDate>
+      <ViewedBy>shaff</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT58.5712197S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>Debug Mode</Item>
+      <ItemType>DebugModeItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2017-05-09T22:41:11.8325962+02:00</CreatedDate>
+      <ViewedBy>shaff</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT24.2219083S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\xutility</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2017-05-09T22:01:52.0137213+02:00</CreatedDate>
+      <ViewedBy>shaff</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT13M48.9255519S" EditActiveTime="PT28M33.4799556S">
+      <ModifiedDate>2017-05-09T22:43:05.3061329+02:00</ModifiedDate>
+      <ModifiedBy>shaff</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\shaff\Desktop\TUM Sync Folder\Alg. for Prog. Contests\Week 2\SharingCookies\SharingCookies\SharingCookies.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\shaff\Desktop\TUM Sync Folder\Alg. for Prog. Contests\Week 2\SharingCookies\SharingCookies\SharingCookies.vcxproj</ProjectName>
+      <CreatedDate>2017-05-09T21:30:14.3566933+02:00</CreatedDate>
+      <ViewedBy>shaff</ViewedBy>
+    </DevTrackerDataItem>
+  </HistoryTimeList>
+</DevTrackerData>
